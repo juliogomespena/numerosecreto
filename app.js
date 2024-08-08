@@ -84,3 +84,5 @@ if(numeroMaximo == null){
     exibirTextos("h1", "O Número Secreto");
     exibirTextos("p", "Clique em Novo Jogo para começar");
 }
+
+//teste git
