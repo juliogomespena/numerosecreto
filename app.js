@@ -58,6 +58,8 @@ function novoJogo()
     }
 }
 
+novoJogo();
+
 function gerarNumeroAleat(maximo)
 {
     let numeroEscolhido = parseInt(Math.random() * maximo + 1);
